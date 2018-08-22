@@ -1,6 +1,13 @@
-merges:
+merges: I got changed during a merge
+	twice!
 
 rebase:
 
+
 First commit for a rebase
 Second commit rebase
+
+
+
+Master is here to stay
+
